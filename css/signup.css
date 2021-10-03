@@ -1,0 +1,104 @@
+.signup{
+  display: flex;
+  position: absolute;
+  color: black;
+  margin: auto;
+  left: 0;
+  right: 0;
+  bottom: 3%;
+  padding: 50px;
+  padding-bottom: 32%;
+  width: 20%;
+  border-radius: 20px;
+  background-color: white;
+  box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.4);
+}
+
+.signup h1{
+  position: absolute;
+  top: 27px;
+}
+
+.signup .USN{
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  outline: none;
+  width: 70%;
+  height: 10%;
+  bottom: 77%;
+  border-radius: 50px ;
+  background-color: rgba(235, 235, 235, 1);
+  font-weight: bold;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.signup .name{
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  outline: none;
+  width: 70%;
+  height: 10%;
+  bottom: 64%;
+  border-radius: 50px ;
+  background-color: rgba(235, 235, 235, 1);
+  font-weight: bold;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.signup .email{
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  outline: none;
+  width: 70%;
+  height: 10%;
+  bottom: 51%;
+  border-radius: 50px ;
+  background-color: rgba(235, 235, 235, 1);
+  font-weight: bold;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.signup .password{
+  font-family: 'Poppins', sans-serif;
+  position: absolute;
+  outline: none;
+  width: 70%;
+  height: 10%;
+  bottom: 38%;
+  border-radius: 50px;
+  background-color: rgba(235, 235, 235, 1);
+  font-weight: bold;
+  padding: 0;
+  padding-left: 10px;
+}
+
+.signup .newacc{
+  position: absolute;
+  bottom: 6%;
+}
+
+.signup a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #f44336;
+}
+
+.signup a:hover{
+  text-decoration: underline;
+}
+
+.signup .s_cont .btn{
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  position: absolute;
+  padding: 8px 20px;
+  bottom: 29%;
+  border: 20px;
+  border-radius: 17px;
+  background-color: #f44336;
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
